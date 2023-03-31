@@ -1,6 +1,6 @@
 Name:		texlive-hep-text
 Version:	64906
-Release:	1
+Release:	2
 Summary:	List and text extensions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hep-text
