@@ -1,5 +1,5 @@
 Name:		texlive-hep-text
-Version:	67632
+Version:	72984
 Release:	1
 Summary:	List and text extensions
 Group:		Publishing
